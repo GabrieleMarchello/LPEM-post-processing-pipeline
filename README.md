@@ -8,7 +8,7 @@ The approach proposed in this work is a two-stage single input pipeline, aiming 
 The most significant outcome achieved by the proposed image analysis method arises in its ability to unveil details in images of organic materials obtained by LTEM, details that are otherwise hidden below noise and blur effects.  
 ![](images/results.png)
 
-The noisy raw image in Fig. _a_ depicts PEG-PMET vesicles and micelles in solution obtained via LTEM in STEM mode. The raw image _a_ displays aggregation of spherical nanoparticles, but it is not possible to discern whether the nanostructures are membrane-bound _i.e._ vesicles or solid-core spherical structures _i.e._ micelles. Image _b_ corresponds to the denoised image, and _c_ to the deblurred image. _d_ depicts a zoomed region of the deblurred _c_, containing vesicles surrounded by membranes.  
+The noisy image in _a_ depicts PEG-PMET vesicles and micelles in solution obtained via LTEM in STEM mode. The raw image _a_ displays aggregation of spherical nanoparticles, but it is not possible to discern whether the nanostructures are membrane-bound _i.e._ vesicles or solid-core spherical structures _i.e._ micelles. Image _b_ corresponds to the denoised image, and _c_ to the deblurred image. _d_ depicts a zoomed region of the deblurred _c_, containing vesicles surrounded by membranes.  
 
 # Implementation
   
