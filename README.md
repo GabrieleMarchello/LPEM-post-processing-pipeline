@@ -1,4 +1,4 @@
-# End-to-end Image Analysis Pipeline for Liquid Transmission Electron Microscopy Imaging  
+# End-to-end Image Analysis Pipeline for Liquid Transmission Electron Microscopy Imaging 
 
 _Gabriele Marchello, Cesare De Pace, Aroa Duro-Castano, Giuseppe Battaglia, Lorena Ruiz-Perez_  
 
