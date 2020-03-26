@@ -19,6 +19,17 @@ The _scripts_ folder contain the files to implement this algorithm, including th
   
 ![](images/blockscheme.jpg)  
 
+## How to cite:
+```
+@article{marchello2020end,
+  title={End-to-end Image analysis pipeline for liquid-phase electron microscopy},
+  author={Marchello, Gabriele and De Pace, Cesare and Duro-Castano, Aroa and Battaglia, Giuseppe and Ruiz-P{\'e}rez, Lorena},
+  journal={Journal of Microscopy},
+  year={2020},
+  publisher={Wiley Online Library}
+}
+```
+
 ### References 
 [1] C. Knaus and M. Zwicker, “Progressive image denoising,” IEEE Trans. Image Process., 2014.  
 
